@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+| <img align="center" src="https://github-readme-stats-xcanwin.vercel.app/api?username=lukezhang-123&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=lukezhang-123&layout=compact&theme=algolia" /> |
+| ------------- | ------------- |
+
+- 🤔 This is personal profile page.
+- 👯 It was nice meeting you.(很高兴见到你,陌生人)
+
 <!--
 **lukezhang-123/lukezhang-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+lukezhang-123
 - ⚡ Fun fact: ...
 -->
