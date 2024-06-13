@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 
 - 🤔 This is personal profile page.
-- https://lukezhang-123.github.io
+- GitHub Pages(博客) - https://lukezhang-123.github.io
 - 👯 It was nice meeting you.(很高兴见到你,陌生人)
 
 <!--
